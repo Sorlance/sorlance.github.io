@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the",
+				"The"
+			],
+			[
+				"in",
+				"in_file"
+			],
+			[
+				"to",
+				"to_file"
+			],
+			[
+				"from",
+				"from_file"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/myCode/myblog-lorne/_posts/2015-07-24-my_first_article.md",
+		"/D/myCode/myblog-lorne/_config.yml",
+		"/D/myCode/pythonCode/test02.py",
+		"/D/Program Files/Android/Android Studio/bin/studio64.exe.vmoptions",
+		"/D/Sorlance/Documents/Hyper-V/OS X 10.9/OS X 10.9.vmx",
+		"/D/Program Files/Android/Android Studio/bin/idea.properties",
+		"/D/Program Files/Android/Android Studio/bin/studio.exe.vmoptions",
+		"/D/myCode/pythonCode/test01.py",
+		"/D/Green Software/Sublime3065x64/Sublime Text Build 3065 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Green Software/Sublime3065x64/Sublime Text Build 3065 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Python Code/Learn Python THW/Lesson 15.py",
+		"/D/Python Code/Learn Python THW/Lesson_17.py",
+		"/D/Python Code/Learn Python THW/Lesson_16.py",
+		"/D/Python Code/Learn Python THW/Lesson_18.py",
+		"/D/Sublime3065x64/Sublime Text Build 3065 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Sublime3065x64/Sublime Text Build 3065 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Sublime3065x64/Sublime Text Build 3065 x64/Data/Installed Packages/Theme - itg.flat.sublime-package",
+		"/D/Sublime3065x64/Sublime Text Build 3065 x64/Data/Installed Packages/0_package_control_loader.sublime-package",
+		"/D/Sublime3065x64/Sublime Text Build 3065 x64/Data/Cache/Theme - itg.flat/itg.dark.tmTheme.cache",
+		"/D/Sublime3065x64/Sublime Text Build 3065 x64/Data/Cache/Theme - Default/theme-itg-flat-master/itg.flat.dark.orange.sublime-theme",
+		"/D/Python Code/Learn Python THW/Lesson 14.py",
+		"/D/Sublime3065x64/Sublime Text Build 3065 x64/Data/Packages/User/Python.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tools;%ANDROID_SDK_HOME%\\platform-tools;%PyHome%;%MySQL%;%Java_8_Home%;%SystemRoot%\\system32;%SystemRoot%;%",
+			"itg_sidebar_tree_xsmall",
+			"height",
+			"script",
+			"\" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Sublime3065x64\\Sublime Text Build 3065 x64\\Data\\Cache\\Theme - Default\\theme-itg-flat-master\\itg.flat.dark.orange.sublime-theme"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
