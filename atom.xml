@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-07-25T07:37:16.325Z</updated>
+  <updated>2015-07-26T08:48:19.202Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -20,38 +20,20 @@
     <link href="http://yoursite.com/2015/07/25/%E5%B2%81%E6%9C%88%E4%BD%A0%E5%88%AB%E5%82%AC/"/>
     <id>http://yoursite.com/2015/07/25/岁月你别催/</id>
     <published>2015-07-25T02:39:04.000Z</published>
-    <updated>2015-07-25T07:37:16.325Z</updated>
+    <updated>2015-07-26T08:48:19.202Z</updated>
     <content type="html"><![CDATA[<p>岁月你别催，该来的我不推。该还的还，该给的我给。</p>
 <p>人生苦短，一梦五十年。</p>
-<p>我不知道是不是所有的小孩子都如我当年懵懂，还是自己从小好运，不知生离死别，直到心智初成才上生死大课。这样的经历让我在读文学作品的时候，不懂藏在文字背后的万般滋味，只为快意贪杯。<br>我觉得这是幸运，却也是不幸。虽然年少时眼泪只为淘气挨揍而流，也错失了很多学习人间冷暖的机会。现在回忆往事，会因为自己在某些事情上的愚钝愧疚，所幸无法溯回时光补救，也就没有理由去后悔。但不幸就在于</p>
+<p>我不知道是不是所有的小孩子都如我当年那般懵懂，还是自己好运，少年时的我是不知生离死别的，直到心智初成才上生死大课。这样的经历让我在读文学作品的时候，不懂藏在一句话后的万般滋味，一目十行，只为快意贪杯。<br>我觉得这是幸运，却也是不幸。虽然年少时眼泪只为淘气挨揍而流，也错失了很多学习人间冷暖的机会。现在回忆往事，会因为自己在某些事情上的愚钝愧疚，也会为小时候的不懂事而难过。所幸无法溯回时光补救，也就没有理由去后悔。</p>
+<p>长大后的时间就过的快多了。五岁前的记忆永远是模糊的，五岁后的每一年，都是那时自己生命的几分之一，虽然从没想过快快长大，可那时候的每一天都很新奇，自己也很珍惜。而今二十多岁， 每一年的记忆都变成了生命中的二十几分之一，也就不足道了。更何况这年纪的人都睡得多，一天十二个时辰，单因为谋生就要用掉六个，然后睡上三四个时辰，再发发呆，一天就过去了，索然无趣。</p>
+<p>可能是因为自己内向，或者说是自信不足吧。我对于人情世故总是避而讳之。</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>岁月你别催，该来的我不推。该还的还，该给的我给。</p>
 <p>人生苦短，一梦五十年。</p>
-<p>我不知道是不是所有的小孩子都如我当年懵懂，还是自己从小好运，不知生离死别，直到心智初成才上生死大课。这样的经历让我在读文学作品的时候，不懂藏在文字背后的万般滋味，只为快意贪]]>
+<p>我不知道是不是所有的小孩子都如我当年那般懵懂，还是自己好运，少年时的我是不知生离死别的，直到心智初成才上生死大课。这样的经历让我在读文学作品的时候，不懂藏在一句话后的万般滋]]>
     </summary>
     
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2015/07/25/hello-world/"/>
-    <id>http://yoursite.com/2015/07/25/hello-world/</id>
-    <published>2015-07-25T02:38:15.632Z</published>
-    <updated>2015-07-24T09:10:49.833Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
-    </summary>
+      <category term="日志" scheme="http://yoursite.com/tags/%E6%97%A5%E5%BF%97/"/>
     
   </entry>
   
