@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-07-27T11:58:30.642Z</updated>
+  <updated>2015-07-31T14:59:53.879Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -14,6 +14,21 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[热 热 热]]></title>
+    <link href="http://yoursite.com/2015/07/31/%E7%83%AD%20%E7%83%AD%20%E7%83%AD/"/>
+    <id>http://yoursite.com/2015/07/31/热 热 热/</id>
+    <published>2015-07-31T14:59:02.000Z</published>
+    <updated>2015-07-31T14:59:53.879Z</updated>
+    <content type="html"><![CDATA[<p>留坑</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>留坑</p>
+]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[倾城]]></title>
