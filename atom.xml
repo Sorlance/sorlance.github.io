@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-08-02T11:38:16.087Z</updated>
+  <updated>2015-08-03T14:52:19.770Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -14,6 +14,19 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[一场雨，把我困在这里]]></title>
+    <link href="http://yoursite.com/2015/08/03/%E4%B8%80%E5%9C%BA%E9%9B%A8%EF%BC%8C%E6%8A%8A%E6%88%91%E5%9B%B0%E5%9C%A8%E8%BF%99%E9%87%8C/"/>
+    <id>http://yoursite.com/2015/08/03/一场雨，把我困在这里/</id>
+    <published>2015-08-03T14:52:19.000Z</published>
+    <updated>2015-08-03T14:52:19.770Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[瑞士军刀]]></title>
